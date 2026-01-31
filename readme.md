@@ -1,4 +1,3 @@
-```md
 # 📊 E-Commerce Customer Analysis Dashboard
 
 Dashboard ini menyajikan hasil analisis data transaksi e-commerce menggunakan pendekatan **RFM Analysis** dan **Cohort Retention Analysis**. Proyek ini dibuat sebagai bagian dari submission kelas **Proyek Analisis Data (Dicoding)**.
@@ -105,6 +104,4 @@ Dashboard ini dapat dideploy menggunakan **Streamlit Community Cloud** dengan la
 
 ## ✍️ Author
 
-Disusun sebagai bagian dari submission kelas **Proyek Analisis Data – Dicoding**.
-
-```
+Disusun Erlangga Azhar sebagai bagian dari submission kelas **Proyek Analisis Data – Dicoding**.
