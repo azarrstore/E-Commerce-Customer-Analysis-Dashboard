@@ -60,7 +60,7 @@ submission/
    ```bash
    git clone https://github.com/username/nama-repo.git
    cd submission
-````
+``
 
 2. Install dependency:
 
